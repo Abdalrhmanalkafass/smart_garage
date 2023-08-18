@@ -1,5 +1,5 @@
 # smart_garage
-created in 8/18/2023
+created in 8/18/2023\n
 it is a smart garage using arduino we use 
 ldr to control light
 smart gate when in get full donot open 
